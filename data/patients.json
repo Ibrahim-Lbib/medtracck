@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Ibrahim",
+        "age": "18",
+        "contact": "+211924775977",
+        "illness": "Malaria"
+    },
+    {
+        "id": 2,
+        "name": "John",
+        "age": "17",
+        "contact": "+211912345678",
+        "illness": "Typhoid"
+    },
+    {
+        "id": 3,
+        "name": "Chol",
+        "age": "25",
+        "contact": "chol25@gmail.com",
+        "illness": "Malaria"
+    },
+    {
+        "id": 4,
+        "name": "Max",
+        "age": "32",
+        "contact": "maxshop@gmail.com",
+        "illness": "Typhoid"
+    }
+]
