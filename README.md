@@ -1,9 +1,9 @@
-Here’s a **clean, structured README.md** for your **MedTrack** project inspired by the professional GitHub-style READMEs like the one from the *claude-mem* repo — with clear sections, quick install instructions, usage examples, and testing tips. ([GitHub][1])
-
----
-
-```md
 # 🏥 MedTrack — Clinic & Patient Record System
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+![CLI](https://img.shields.io/badge/Interface-Terminal-lightgrey)
 
 > A simple, terminal-based clinic management system built with Python.  
 > Helps small clinics manage patients, appointments, medications, payments and reports.
