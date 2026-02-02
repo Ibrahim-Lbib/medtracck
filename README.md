@@ -37,21 +37,28 @@
 ```
 
 medtrack/
-├── main.py
-├── README.md
+│
 ├── data/
-│   ├── patients.json
 │   ├── appointments.json
 │   ├── medications.json
+│   ├── patients.json
 │   ├── payments.json
-│   └── users.json
-└── modules/
-├── auth.py
-├── patient.py
-├── appointment.py
-├── medication.py
-├── payment.py
-└── report.py
+│   ├── users.json
+│
+├── modules/
+│   ├── appointment.py
+│   ├── auth.py
+│   ├── medication.py
+│   ├── patient.py
+│   ├── payment.py
+│   └── report.py
+│
+├── utils/
+│   └── file_handler.py
+│
+├── main.py
+└── README.md
+
 
 ````
 
@@ -61,7 +68,7 @@ medtrack/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/<your-username>/medtrack.git
+git clone https://github.com/Ibrahim-Lbib/medtrack.git
 cd medtrack
 ````
 
@@ -82,10 +89,15 @@ python main.py
 
 ## 🔐 Authentication
 
-At first run, there are no users.
-Use the “Register New User” option from the menu to add your first admin account.
+On first run, MedTrack will prompt you to create an **admin account**.
 
-Passwords are stored securely using SHA-256 hashing.
+This admin account is required to access the system.
+
+After the admin account is created:
+- All users must log in before using the system
+- Credentials are stored securely using SHA-256 password hashing
+
+You do **not** need to manually edit any files.
 
 ---
 
