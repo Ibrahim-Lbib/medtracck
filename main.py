@@ -1,10 +1,12 @@
 # Main Menu Loop
 from modules import patient, appointment, medication, payment, report, auth
-
-if not auth.login():
-                exit()
                 
 def main():
+    auth.ensure_admin_exists()   
+
+    if not auth.login():
+                exit()
+    
     while True:
         print("\n🏥 MEDTRACK SYSTEM")
         print("1. Patient")

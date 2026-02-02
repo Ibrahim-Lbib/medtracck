@@ -4,6 +4,23 @@ import hashlib
 def hash_password(password):
     return hashlib.sha256(password.encode()).hexdigest()
 
+def ensure_admin_exists():
+    users = load_users()
+    if users:
+        return  # Admin already exists
+
+    print("\n🔐 First-time setup: Create Admin Account")
+    username = input("Admin username: ")
+    password = input("Admin password: ")
+
+    users.append({
+        "username": username,
+        "password": hash_password(password)
+    })
+    save_users(users)
+    print("✅ Admin account created successfully.\n")
+
+
 def register():
     print("\n🆕 Register New User (admin only)")
     username = input("Username: ")
@@ -35,7 +52,7 @@ def login():
     hashed = hash_password(password)
 
     for user in users:
-        if user["username"] == username or username.lower() and user["password"] == hashed:
+        if user["username"] == username and user["password"] == hashed:
             print(f"✅ Welcome back, {username.capitalize()}!")
             return True
 

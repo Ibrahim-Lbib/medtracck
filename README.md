@@ -4,6 +4,9 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![CLI](https://img.shields.io/badge/Interface-Terminal-lightgrey)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Author](https://img.shields.io/badge/Author-Ibrahim%20Labib-black)
+
 
 > A simple, terminal-based clinic management system built with Python.  
 > Helps small clinics manage patients, appointments, medications, payments and reports.
