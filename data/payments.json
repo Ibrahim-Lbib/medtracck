@@ -30,5 +30,293 @@
         "amount": 43.0,
         "status": "pending",
         "date": "2026-02-02 01:11"
+    },
+    {
+        "id": 5,
+        "patient_id": "5",
+        "service": "Consultation",
+        "amount": 30.0,
+        "status": "paid",
+        "date": "2026-02-02 10:15"
+    },
+    {
+        "id": 6,
+        "patient_id": "6",
+        "service": "Blood Test",
+        "amount": 75.0,
+        "status": "paid",
+        "date": "2026-02-02 11:30"
+    },
+    {
+        "id": 7,
+        "patient_id": "7",
+        "service": "Diabetes",
+        "amount": 65.0,
+        "status": "paid",
+        "date": "2026-02-02 14:20"
+    },
+    {
+        "id": 8,
+        "patient_id": "8",
+        "service": "X-Ray",
+        "amount": 120.0,
+        "status": "pending",
+        "date": "2026-02-02 09:45"
+    },
+    {
+        "id": 9,
+        "patient_id": "9",
+        "service": "Asthma",
+        "amount": 55.0,
+        "status": "paid",
+        "date": "2026-02-03 13:10"
+    },
+    {
+        "id": 10,
+        "patient_id": "10",
+        "service": "Migraine",
+        "amount": 40.0,
+        "status": "paid",
+        "date": "2026-02-03 16:30"
+    },
+    {
+        "id": 11,
+        "patient_id": "11",
+        "service": "Bronchitis",
+        "amount": 85.0,
+        "status": "pending",
+        "date": "2026-02-03 10:45"
+    },
+    {
+        "id": 12,
+        "patient_id": "12",
+        "service": "Pneumonia",
+        "amount": 150.0,
+        "status": "paid",
+        "date": "2026-02-04 09:15"
+    },
+    {
+        "id": 13,
+        "patient_id": "13",
+        "service": "Malaria",
+        "amount": 48.0,
+        "status": "paid",
+        "date": "2026-02-04 14:30"
+    },
+    {
+        "id": 14,
+        "patient_id": "14",
+        "service": "Diabetes",
+        "amount": 70.0,
+        "status": "paid",
+        "date": "2026-02-04 11:00"
+    },
+    {
+        "id": 15,
+        "patient_id": "15",
+        "service": "Typhoid",
+        "amount": 92.0,
+        "status": "pending",
+        "date": "2026-02-05 15:20"
+    },
+    {
+        "id": 16,
+        "patient_id": "16",
+        "service": "Migraine",
+        "amount": 45.0,
+        "status": "paid",
+        "date": "2026-02-05 10:10"
+    },
+    {
+        "id": 17,
+        "patient_id": "17",
+        "service": "Hypertension",
+        "amount": 60.0,
+        "status": "paid",
+        "date": "2026-02-05 13:45"
+    },
+    {
+        "id": 18,
+        "patient_id": "18",
+        "service": "Asthma",
+        "amount": 58.0,
+        "status": "paid",
+        "date": "2026-02-06 09:30"
+    },
+    {
+        "id": 19,
+        "patient_id": "19",
+        "service": "Influenza",
+        "amount": 35.0,
+        "status": "pending",
+        "date": "2026-02-06 14:15"
+    },
+    {
+        "id": 20,
+        "patient_id": "20",
+        "service": "Arthritis",
+        "amount": 110.0,
+        "status": "paid",
+        "date": "2026-02-06 16:00"
+    },
+    {
+        "id": 21,
+        "patient_id": "21",
+        "service": "Bronchitis",
+        "amount": 88.0,
+        "status": "paid",
+        "date": "2026-02-07 11:20"
+    },
+    {
+        "id": 22,
+        "patient_id": "22",
+        "service": "Malaria",
+        "amount": 52.0,
+        "status": "paid",
+        "date": "2026-02-07 15:40"
+    },
+    {
+        "id": 23,
+        "patient_id": "23",
+        "service": "Diabetes",
+        "amount": 75.0,
+        "status": "pending",
+        "date": "2026-02-08 10:05"
+    },
+    {
+        "id": 24,
+        "patient_id": "24",
+        "service": "Typhoid",
+        "amount": 95.0,
+        "status": "paid",
+        "date": "2026-02-08 13:25"
+    },
+    {
+        "id": 25,
+        "patient_id": "25",
+        "service": "Hypertension",
+        "amount": 62.0,
+        "status": "paid",
+        "date": "2026-02-09 09:50"
+    },
+    {
+        "id": 26,
+        "patient_id": "26",
+        "service": "Pneumonia",
+        "amount": 160.0,
+        "status": "pending",
+        "date": "2026-02-09 14:35"
+    },
+    {
+        "id": 27,
+        "patient_id": "27",
+        "service": "Migraine",
+        "amount": 42.0,
+        "status": "paid",
+        "date": "2026-02-10 11:15"
+    },
+    {
+        "id": 28,
+        "patient_id": "28",
+        "service": "Asthma",
+        "amount": 57.0,
+        "status": "paid",
+        "date": "2026-02-10 15:55"
+    },
+    {
+        "id": 29,
+        "patient_id": "29",
+        "service": "Arthritis",
+        "amount": 105.0,
+        "status": "pending",
+        "date": "2026-02-11 10:40"
+    },
+    {
+        "id": 30,
+        "patient_id": "30",
+        "service": "Bronchitis",
+        "amount": 90.0,
+        "status": "paid",
+        "date": "2026-02-11 13:20"
+    },
+    {
+        "id": 31,
+        "patient_id": "31",
+        "service": "Malaria",
+        "amount": 49.0,
+        "status": "paid",
+        "date": "2026-02-12 09:10"
+    },
+    {
+        "id": 32,
+        "patient_id": "32",
+        "service": "Diabetes",
+        "amount": 72.0,
+        "status": "paid",
+        "date": "2026-02-12 14:50"
+    },
+    {
+        "id": 33,
+        "patient_id": "33",
+        "service": "Influenza",
+        "amount": 38.0,
+        "status": "pending",
+        "date": "2026-02-13 11:30"
+    },
+    {
+        "id": 34,
+        "patient_id": "34",
+        "service": "Typhoid",
+        "amount": 97.0,
+        "status": "paid",
+        "date": "2026-02-13 16:15"
+    },
+    {
+        "id": 35,
+        "patient_id": "35",
+        "service": "Hypertension",
+        "amount": 64.0,
+        "status": "paid",
+        "date": "2026-02-14 10:25"
+    },
+    {
+        "id": 36,
+        "patient_id": "36",
+        "service": "Pneumonia",
+        "amount": 155.0,
+        "status": "pending",
+        "date": "2026-02-14 14:05"
+    },
+    {
+        "id": 37,
+        "patient_id": "37",
+        "service": "Migraine",
+        "amount": 44.0,
+        "status": "paid",
+        "date": "2026-02-15 09:40"
+    },
+    {
+        "id": 38,
+        "patient_id": "38",
+        "service": "Asthma",
+        "amount": 56.0,
+        "status": "paid",
+        "date": "2026-02-15 15:30"
+    },
+    {
+        "id": 39,
+        "patient_id": "39",
+        "service": "Arthritis",
+        "amount": 108.0,
+        "status": "pending",
+        "date": "2026-02-16 12:00"
+    },
+    {
+        "id": 40,
+        "patient_id": "40",
+        "service": "Bronchitis",
+        "amount": 87.0,
+        "status": "paid",
+        "date": "2026-02-16 16:45"
     }
 ]

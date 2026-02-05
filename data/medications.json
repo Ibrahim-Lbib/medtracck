@@ -4,5 +4,149 @@
         "name": "Argesun",
         "dosage": "100mg",
         "stock": 40
+    },
+    {
+        "id": 2,
+        "name": "Ciprofloxacin",
+        "dosage": "500mg",
+        "stock": 25
+    },
+    {
+        "id": 3,
+        "name": "Paracetamol",
+        "dosage": "500mg",
+        "stock": 100
+    },
+    {
+        "id": 4,
+        "name": "Ibuprofen",
+        "dosage": "400mg",
+        "stock": 75
+    },
+    {
+        "id": 5,
+        "name": "Metformin",
+        "dosage": "850mg",
+        "stock": 30
+    },
+    {
+        "id": 6,
+        "name": "Amlodipine",
+        "dosage": "5mg",
+        "stock": 45
+    },
+    {
+        "id": 7,
+        "name": "Salbutamol",
+        "dosage": "100mcg",
+        "stock": 20
+    },
+    {
+        "id": 8,
+        "name": "Cetirizine",
+        "dosage": "10mg",
+        "stock": 60
+    },
+    {
+        "id": 9,
+        "name": "Amoxicillin",
+        "dosage": "500mg",
+        "stock": 35
+    },
+    {
+        "id": 10,
+        "name": "Aspirin",
+        "dosage": "75mg",
+        "stock": 80
+    },
+    {
+        "id": 11,
+        "name": "Lisinopril",
+        "dosage": "10mg",
+        "stock": 28
+    },
+    {
+        "id": 12,
+        "name": "Simvastatin",
+        "dosage": "20mg",
+        "stock": 42
+    },
+    {
+        "id": 13,
+        "name": "Omeprazole",
+        "dosage": "20mg",
+        "stock": 55
+    },
+    {
+        "id": 14,
+        "name": "Levothyroxine",
+        "dosage": "50mcg",
+        "stock": 38
+    },
+    {
+        "id": 15,
+        "name": "Atorvastatin",
+        "dosage": "40mg",
+        "stock": 32
+    },
+    {
+        "id": 16,
+        "name": "Metoprolol",
+        "dosage": "25mg",
+        "stock": 47
+    },
+    {
+        "id": 17,
+        "name": "Losartan",
+        "dosage": "50mg",
+        "stock": 29
+    },
+    {
+        "id": 18,
+        "name": "Hydrochlorothiazide",
+        "dosage": "12.5mg",
+        "stock": 51
+    },
+    {
+        "id": 19,
+        "name": "Albuterol",
+        "dosage": "90mcg",
+        "stock": 23
+    },
+    {
+        "id": 20,
+        "name": "Insulin Glargine",
+        "dosage": "100 units/ml",
+        "stock": 15
+    },
+    {
+        "id": 21,
+        "name": "Warfarin",
+        "dosage": "5mg",
+        "stock": 18
+    },
+    {
+        "id": 22,
+        "name": "Prednisone",
+        "dosage": "10mg",
+        "stock": 27
+    },
+    {
+        "id": 23,
+        "name": "Gabapentin",
+        "dosage": "300mg",
+        "stock": 36
+    },
+    {
+        "id": 24,
+        "name": "Tramadol",
+        "dosage": "50mg",
+        "stock": 22
+    },
+    {
+        "id": 25,
+        "name": "Diazepam",
+        "dosage": "5mg",
+        "stock": 14
     }
 ]
